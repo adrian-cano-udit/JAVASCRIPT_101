@@ -58,7 +58,7 @@ Es un tipo de dato complejo que me permite guardar datos en formato clave: valor
 - Suma -> +
 - Resta -> -
 - Multiplicación -> *
-- Disión -> /
+- División -> /
 - Módulo -> %
 
 

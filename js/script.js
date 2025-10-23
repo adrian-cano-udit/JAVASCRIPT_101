@@ -7,8 +7,18 @@ let myName = "Adrián";
 
 let surname = 'Cano';
 
+let number = "3456";
+
 
 let age = 35;
+
+console.log(age);
+
+age = 35.5;
+
+console.log(age);
+
+
 
 let price = 12.99;
 
@@ -16,7 +26,7 @@ let price = 12.99;
 
 let prices = [4.5, 7.99, 5, 2.70];
 
-console.log(prices[1]);
+// console.log(prices[1]);
 
 
 let animals = ["dog", "cat", "cow", "fish"];
@@ -45,3 +55,6 @@ let user1574 = {
     },
     isDriver: true
 };
+
+
+console.log(user1574);
